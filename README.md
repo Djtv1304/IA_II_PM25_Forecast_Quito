@@ -21,7 +21,7 @@ Time series forecasting of PM2.5 (fine particulate matter < 2.5 µm) air polluti
 - **Hourly (10 days)** — For citizen use and health alerts
 
 ## 🚀 Streamlit App
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ia-pm25-forecast-quito.streamlit.app/)
 
 ## 📂 Repository Structure
 ```
